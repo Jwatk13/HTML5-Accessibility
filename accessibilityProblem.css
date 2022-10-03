@@ -1,8 +1,28 @@
-.button {
-    color: white;
-    background-color: blue;
-    border-radius: 10px;
-    width: 170px;
-    padding: 10px;
-    text-align: center;
-  }
+body {
+  background: #fff;
+}
+
+form {
+    width:44em;
+    margin:30px auto;
+}
+fieldset {
+    border:1px solid #999;
+}
+legend {
+    margin:0px;
+    padding:0px 8px;
+    font-weight:600;
+}
+div {
+    overflow:hidden;
+    margin:10px 0px;
+}
+label {
+    width:45%;
+    display:inline-block;
+    text-align:right;
+}
+input {
+    display:inline-block;
+}
