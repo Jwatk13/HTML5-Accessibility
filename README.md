@@ -5,5 +5,4 @@ Practicing and reviewing how to write HTML5 with accessibility in mind.
 Update the code useing appropriate semantic HTML. 
 Don't need to worry too much about recreating the exact same look and text sizing, as long as the semantics are good.
 
-
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Test_your_skills:_HTML_accessibility
+https://i.imgur.com/d0ulAhm.png
